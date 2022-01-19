@@ -1,0 +1,28 @@
+table,th,td{
+    border: 1px solid black;
+    border-collapse:collapse ;
+}
+.lenda{
+    text-align: center;
+}
+.number1{
+   background-color: #BB291C;
+}
+.number3{
+    background-color: #E78F35;
+}
+.number5{
+    background-color: #AAC580;
+}
+.number2{
+    background-color: #E13122;
+}
+.number4{
+    background-color: #E4C544;
+}
+.number51{
+    background-color: #E78F35;
+}
+.number52{
+    background-color: #A8C27E;
+}
